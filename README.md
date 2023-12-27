@@ -10,6 +10,5 @@
 ![Знімок екрана (3481)](https://github.com/HordienkoO/SalesforcePracticum/assets/114742171/fde52b7d-926a-424a-ae46-1edfbe2e4dc8)
 
 Завдання були опубліковані в окремому репозиторії:
-![Uploading Знімок екрана (3483).png…]()
-
+![Знімок екрана (3483)](https://github.com/HordienkoO/SalesforcePracticum/assets/114742171/95aaad3d-be87-4cb2-83d0-436729de2d91)
 
