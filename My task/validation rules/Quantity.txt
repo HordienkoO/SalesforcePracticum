@@ -1,0 +1,1 @@
+Quantity__c <= 0 || ISBLANK( Quantity__c )

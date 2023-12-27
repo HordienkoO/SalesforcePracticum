@@ -1,0 +1,4 @@
+AND(
+ISCHANGED(TotalCost__c),
+$Profile.Name  'ohord'
+)
